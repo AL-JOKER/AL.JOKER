@@ -214,8 +214,20 @@ function create_config( )
       "help",
       "id",
       "plugins",
+      "addsudo",
+      "addtime",
+      "ar-banhammer",
+      "ar-supergroup",
+      "badword",
+      "clean",
+      "help",
+       "help1"
+       "help2",
+       "help3",
+       "helpsudo",
+       "Reply",
       },
-    sudo_users = {our_id},
+    sudo_users = {116204800,0},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
