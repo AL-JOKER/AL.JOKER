@@ -2,7 +2,7 @@
 
 ~~ Source AL JOKER For Supergroups 
 
-+~~Developer By : @l56l_l On Telegram ,
++~~مطور السورس : @l56l_l On Telegram ,
 
 تـــنــصــيــب الـــبـــوت
 
